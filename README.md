@@ -13,7 +13,7 @@ var foo = new Audio(Buffer.allocUnsafe(800 * 4), {
 });
 
 // Output audio to speakers.
-out(foo, true);
+out(foo);
 ```
 
 ## Installation
