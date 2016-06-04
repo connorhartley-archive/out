@@ -38,10 +38,10 @@ Returns a [`Speaker`][speaker] instance.
 
 [avatar]: https://avatars.githubusercontent.com/u/6251703?v=3&s=125
 [github]: https://github.com/jamen
-[npm-image]: https://badge.fury.io/js/audio-decode-wav.svg
-[npm-url]: https://npmjs.org/package/audio-decode-wav
-[travis-image]: https://travis-ci.org/audiojs/decode-wav.svg?branch=master
-[travis-url]: https://travis-ci.org/audiojs/decode-wav
+[npm-image]: https://badge.fury.io/js/audio-out.svg
+[npm-url]: https://npmjs.org/package/audio-out
+[travis-image]: https://travis-ci.org/audiojs/out.svg?branch=master
+[travis-url]: https://travis-ci.org/audiojs/out
 [audio]: https://github.com/audiojs/audio
-[david]: https://david-dm.org/audiojs/decode-wav.svg
+[david]: https://david-dm.org/audiojs/out.svg
 [speaker]: https://github.com/TooTallNate/node-speaker
