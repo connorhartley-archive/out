@@ -4,23 +4,17 @@
   "version": "0.1.1",
   "description": "Output an Audio object to the speaker.",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/audiojs/out"
-  },
+  "repository": "audiojs/out",
   "scripts": {
-    "test": "tape test"
+    "test": "eslint index.js"
   },
-  "private": false,
   "files": [
-    "lib"
+    "index.js"
   ],
   "devDependencies": {
     "eslint": "^2.11.1",
     "eslint-config-google": "^0.5.0",
-    "precommit": "^1.2.0",
-    "tap-spec": "^4.1.1",
-    "tape": "^4.5.1"
+    "precommit": "^1.2.0"
   },
   "license": "MIT",
   "dependencies": {
