@@ -1,7 +1,7 @@
 {
   "name": "audio-out",
   "author": "Jamen Marzonie",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Output an Audio object to the speaker.",
   "main": "index.js",
   "repository": "audiojs/out",
