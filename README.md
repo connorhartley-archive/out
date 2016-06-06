@@ -1,4 +1,4 @@
-# audio out [![NPM version][npm-image]][npm-url] ![Dependencies][david]
+# Audio out [![NPM version][npm-image]][npm-url] ![Dependencies][david]
 > Output an Audio object to the speaker.
 
 Output an [`Audio`][audio] object to the [speaker][speaker].
